@@ -1,26 +1,54 @@
-.theme-dark .layer, .theme-dark .layers {
-    background: rgba(0, 0, 0, 0.6) !important;
+.channels-3g2vYe {
+    background-color: rgba(0,0,0,0);
 }
-
-#voice-connection, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels .search-bar, .private-channels,
- .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, 
- .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing, .layer, .layers, 
- .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, 
- .theme-dark .channel-members, .layer, .layers {
-    background: transparent !important;
-}
-
-.layers,
-.layer,
 .container-RYiLUQ {
-	background: transparent !important;
+    background-color:  transparent;
+}
+.container-2OU7Cz {
+    background-color:  rgba(0,0,0,0);
+}
+.theme-dark .layer, .theme-dark .layers {
+    background: transparent;
+}
+.guilds-wrapper {
+    background-color: transparent;
+}
+.theme-dark .chat form .typing {
+    background-color: transparent;
+}
+.theme-dark .chat form {
+    background-color: transparent;
+    box-shadow: none;
+}
+.theme-dark .chat>.content {
+    background-color: transparent;
+}
+.theme-dark .chat {
+    background-color: transparent;
+}
+
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+    background-color: transparent;
+}
+.theme-dark .channel-members {
+    background-color: transparent;
+}
+.theme-dark .title-qAcLxz {
+    background: transparent;
+    box-shadow: none;
+}
+.theme-dark #friends {
+    background-color: transparent;
 }
 .theme-dark .headerBar-cxbhPD {
-    background-color: transparent !important;
+    background: transparent;
 }
-.appMount-14L89u {
-    background-color: transparent !important;
+.theme-dark .ui-standard-sidebar-view .content-region {
+    background: transparent;
 }
-.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
-    background-color: transparent !important;
+.theme-dark .ui-standard-sidebar-view .sidebar-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view {
+    background: transparent;
 }
