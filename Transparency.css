@@ -29,3 +29,7 @@
  .theme-dark .channel-members, .layer, .layers {
     background: transparent !important;
 }
+
+.contentSelectedText-3j5CXt {
+	background-color: rgba(0, 0, 0, 0.7);
+}
